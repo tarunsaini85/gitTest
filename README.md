@@ -1,2 +1,2 @@
 README.md
-V1.2
+V1.0
